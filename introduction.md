@@ -4,3 +4,4 @@ Favorite path is JavaScript.
 * Home Brewing
 * Sarcasm
 * Litotes
+* Killing history using git rebase
